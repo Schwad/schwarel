@@ -19,6 +19,10 @@ Schwarel is a thin layer over the top of arel. Giving an opinionated API for use
 
 **After**
 
+## Attributions
+
+@flanger001 had the initial [ideas here](https://github.com/rails/rails/pull/39207) with some inspiration from @tenderlove [here](https://github.com/rails/rails/pull/39198). I take code directly from much of that first PR with some ommissions due to taste.
+
 ## Installation
 
 Install the gem and add to the application's Gemfile by executing:
