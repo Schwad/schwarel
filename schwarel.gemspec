@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Opinionated Arel"
   spec.description = "Opinionated Arel"
-  spec.homepage = "schwarel.github.io"
+  spec.homepage = "https://schwarel.github.io"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
