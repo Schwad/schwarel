@@ -1,6 +1,6 @@
 # Schwarel
 
-Opinionated Arel.
+Opinionated Arel. Built following my thoughts collected [from the community here](https://gist.github.com/Schwad/fc5a3ffa65fab1a95654782cab45aa49).
 
 ## Opinion:
 
@@ -12,7 +12,6 @@ Opinionated Arel.
 ## What is?
 
 Schwarel is a thin layer over the top of arel. Giving an opinionated API for users to use its featureset.
-
 
 ## Show me
 
