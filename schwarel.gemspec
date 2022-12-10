@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version = Schwarel::VERSION
   spec.authors = ["Nick Schwaderer"]
   spec.email = ["nick.schwaderer@shopify.com"]
+  spec.metadata["rubygems_mfa_required"] = "true"
 
   spec.summary = "Opinionated Arel"
   spec.description = "Opinionated Arel"

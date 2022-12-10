@@ -11,4 +11,8 @@ gem "test-unit", "~> 3.0"
 
 gem "rubocop", "~> 1.21"
 
-gem "ruby-lsp", "~> 0.3.6", :group => :development
+gem "ruby-lsp", "~> 0.3.6", group: :development
+
+gem "rubocop-rake", require: false
+
+gem "rubocop-shopify", require: false

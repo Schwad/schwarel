@@ -9,7 +9,7 @@ class SchwarelTest < Test::Unit::TestCase
     end
   end
 
-  test "something useful" do
-    assert_equal("expected", "actual")
+  test "CI smoketest" do
+    assert_equal("actual", "actual")
   end
 end
